@@ -1,5 +1,5 @@
 # Predictors of Loan Pricing
-This is the second of a series of three projects completed for my Applied Econometrics course of UCLA's Master of Quantitative Economics. The objective is to identify the best predictor of personal loan prices. To achieve this, we test multiple MLR models inclusive of variables transformations and interaction variables.
+This is the second of a series of four projects completed for my Applied Econometrics course at UCLA's Master of Quantitative Economics. The objective is to identify the best predictor of personal loan prices. To achieve this, we test multiple MLR models inclusive of variables transformations and interaction variables.
 
 ## Introduction
 In this project, our team aims to construct a predictive model that examines the determinants of loan pricing in approved loan applications. The primary objective is identifying and evaluating the factors influencing the loan-to-price ratio, focusing on understanding demographic, financial, and loan-specific characteristics. By developing a robust model, we hope to uncover patterns that can inform more equitable and efficient lending practices.
